@@ -1,1 +1,1 @@
-# Personal Webpage
+Hello, I'm a Software Engineer, tech enthusiast and a gymrat. I love to build things and learn new technologies.
