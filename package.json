@@ -2,8 +2,11 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "node ./scripts/gen-rss.js && next build",
+    "build": "next build",
     "start": "next start"
+  },
+  "engines": {
+    "node": "20.11.0"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
